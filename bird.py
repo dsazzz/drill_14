@@ -2,6 +2,7 @@ from math import sin, tau
 
 from pico2d import get_canvas_width, get_time, load_image
 
+#커밋용
 
 class Bird:
     WIDTH = 90
